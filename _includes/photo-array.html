@@ -1,0 +1,25 @@
+
+<div class="student-row">
+  {% for mem in include.members %}
+<div class="each-student">
+  {% if mem.photo %}
+  <img src="{{"/assets/img/" | append: mem.photo }}" alt="{{ mem.name }}" />
+  {% else %}
+  <img src="/assets/img/iub-logo.png" alt="{{ mem.name }}"/>
+  {% endif %}
+  {% if mem.link %}
+  <a href="{{ mem.link }}" target="_blank"><h3>{{ mem.name }}</h3></a>
+  {% else %}
+  <h3>{{ mem.name }}</h3>
+  {% endif %}
+  <p>
+  {% if mem.degree %}
+  {{ mem.degree }}<br>
+  {% endif %}
+  {% if mem.position %}
+  {{ mem.position }}
+  {% endif %}
+  </p>
+</div>
+  {% endfor %}
+</div>

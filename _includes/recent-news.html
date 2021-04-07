@@ -1,0 +1,16 @@
+<div class="recent-news">
+    <h2> Recent news </h2>
+    <dl>
+        {% for mem in include.members %}
+        <dt> {{ mem.date }} </dt>
+        <dd> {{ mem.event | markdownify }}
+        {% if mem.photo %}
+            <div style="text-align:center">
+            <img src="{{mem.photo}}">
+            </div>
+        {% endif %}
+        </dd>
+        {% endfor %}
+    </dl>
+</div>
+

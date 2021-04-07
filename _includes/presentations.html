@@ -1,0 +1,34 @@
+<ul>
+
+  {% for pres in site.data.presentations %}
+    <li> {{ pres.title }}
+      
+      {% if pres.slides %}
+        {% for slide in pres.slides %}
+          {% if slide contains "http" %}
+            {% capture sl %} {{ slide }} {% endcapture %}
+          {% else %}
+            {% capture sl %} {{"/assets/research/talks/" | append: slide}} {% endcapture %}
+          {% endif %}
+          {% if forloop.length==1 %}
+            <a href="{{ sl }}" target="_blank"> (slides)</a>
+          {% else %}
+            <a href="{{ sl }}" target="_blank"> (slides v{{forloop.index}})</a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      
+      {% if pres.poster %}
+        {% for post in pres.poster %}
+          {% if forloop.length==1 %}
+             <a href="{{"/assets/research/talks/" | append: post }}" target="_blank"> (poster)</a>
+          {% else %}
+            <a href="{{"/assets/research/talks/" | append: post }}" target="_blank"> (poster v{{forloop.index}})</a>
+          {% endif %}
+          
+        {% endfor %}
+      {% endif %}
+    </li>
+  {% endfor %}
+
+</ul>

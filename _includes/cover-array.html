@@ -1,0 +1,17 @@
+<div class="bio-row">
+    <div class="bio-column-1">
+        <address>
+            {{ page.position | markdownify }}
+        </address>
+        <address>
+            {{ page.address | markdownify }}
+        </address>
+    </div>
+    
+    <div class="bio-column-2">
+        <!--<div style="display: flex; justify-content: center;">-->
+        <div class="bio-pic">
+          <img src= "{{ page.bio-photo }}">
+        </div>
+    </div>
+</div>

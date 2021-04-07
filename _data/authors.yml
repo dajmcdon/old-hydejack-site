@@ -1,0 +1,58 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# You can change `author1` to your shortname.
+author1:
+  # Replace <...> with your own (remove the < >)
+  name:              Daniel J. McDonald
+  email:             daniel@stat.ubc.ca
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Daniel J. McDonald is Associate Professor of Statistics at the University of British Columbia. He develops theory and methods for risk estimation and model selection with high dimensional data.
+
+  # This photo will be used in the about section.
+  picture: /assets/img/bio-photo.jpg
+    
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    # twitter:         dajmcdon
+    github:            dajmcdon
+    # download:        <url>
+    email:             daniel@stat.ubc.ca
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    linkedin:          dajmcdon
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+

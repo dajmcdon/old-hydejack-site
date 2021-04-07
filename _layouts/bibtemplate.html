@@ -1,0 +1,39 @@
+---
+---
+
+{{reference}}
+<br>
+
+<button type="button" class="btn btn-main"
+onclick="toggleBibtex{{entry.key}}()"><i class="far fa-clone"></i> BibTeX</button>
+
+{% if entry.arxiv %}
+<a href="{{entry.arxiv}}" target="_blank"><button type="button" class="btn"><i class="far fa-external-link-alt"></i> arXiv</button></a>
+{% endif %}
+
+{% if entry.url %}
+<a href="{{entry.url}}" target="_blank"><button type="button" class="btn btn-secondary"><i class="far fa-link"></i> Link</button></a>
+{% endif %}
+
+{% if entry.pdf %}
+<a href="{{entry.pdf}}" target="_blank"><button type="button" class="btn btn-secondary"><i class="far fa-file-pdf"></i> pdf</button></a>
+{% endif %}
+
+{% if entry.code %}
+<a href="{{entry.code}}" target="_blank"><button type="button" class="btn btn-ternary"><i class="far fa-code-branch"></i> Code</button></a>
+{% endif %}
+
+
+<div id="a{{entry.key}}" style="display: none;">
+    <pre>{{entry.bibtex}}</pre>
+</div>
+<script>
+    function toggleBibtex{{entry.key}}(parameter) {
+        var x= document.getElementById('a{{entry.key}}');
+        if (x.style.display === 'none') {
+            x.style.display = 'block';
+        } else {
+            x.style.display = 'none';
+        }
+    }
+</script>

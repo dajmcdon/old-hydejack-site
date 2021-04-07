@@ -1,0 +1,51 @@
+- title: Markov switching state space models for uncovering musical interpretation
+  slides: https://dajmcdon.github.io/mazurka-talk-2019/chopin-talk-2019.html
+- title: Trend filtering in exponential families
+  slides:
+    - ExpFam-research-169.pdf
+    - ExpFamTF.pdf
+- title: Algorithms for Estimating Trends in Global Temperature Volatility     
+  poster: volatilityAAAIposter.pdf
+- title: "Regularization, optimization, and approximation: The benefits of a convex combination"
+  slides: RegOptApprox.pdf
+- title:  Matrix sketching for alternating direction method of multipliers optimization 
+  slides: ApproxADMM.pdf
+- title: Statistical implications of (some) computational approximations 
+  slides: ApproxStat2018.pdf
+- title: A Switching Kalman Filter for Modeling Classical Music Performances 
+  poster: mazurkaPoster2018.pdf
+- title: Predicting phenotypes from microarrays using amplified, initially marginal, eigenvector regression 
+  slides: aimer.pdf
+- title: Compressed and penalized linear regression 
+  slides: CompressPenalized.pdf
+- title: Estimating beta mixing coefficients with histograms 
+  slides: betaMixing.pdf
+- title: Approximation-regularization for analysis of large data sets
+  slides: 
+    - ApproxReg2016.pdf
+    - ApproxRegLong2016.pdf
+- title: Risk estimation for high-dimensional lasso regression 
+  slides: lassoRiskEstim.pdf
+- title: Approximate principal components analysis of large data sets
+  slides: 
+    - pcaApproxTalk.pdf
+    - pcaApproxTalk2015.pdf
+- title: Statistical machine learning with structured data
+  slides: ResearchOverview.pdf
+- title: Clustering classical music performance 
+  slides: mazurkaTalk.pdf
+  poster: mazurkaPoster.pdf
+- title: The lasso, persistence, and cross-validation 
+  slides: lasso.pdf 
+  poster: lassoposter.pdf
+- title: Nonparametric risk bounds for time series prediction 
+  slides: 
+    - nonpar1.pdf
+    - nonpar2.pdf
+    - IUecon.pdf
+- title: Estimating beta mixing coefficients 
+  poster: betamix.pdf
+- title: "Spectral approximation methods: performance evaluations in clustering and classification"
+  slides: spectral.pdf
+- title: "Generalization error bounds for state-space models: with an application to economic forecasting"
+  slides: gebss.pdf
