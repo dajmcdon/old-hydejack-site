@@ -88,7 +88,7 @@ theme_color:           rgb(4,30,66) #rgb(0,136,78)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          'EB Garamond'
+google_fonts:          EB+Garamond
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
