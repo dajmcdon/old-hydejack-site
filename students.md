@@ -2,37 +2,39 @@
 title: "Information for Students"
 permalink: /students/
 students:
-  - name: Aaron Cohen
-    photo: cohen_aaron.jpg
-    degree: Ph.D. Data Analysis Qualifier
+  - name: Shuyi Tan
+    degree: MSc in Statistics
+  - name: Xiaoxuan Liang
+    degree: MSc in Statistics
+  - name: Wei Tang
+    degree: MSc in Statistics
 alumni:
+  - name: Aaron Cohen
+    degree: PhD Data Analysis Qualifier (IUB 2021)
   - name: Lei Ding
-    photo: leiding.png
-    degree: Ph.D. in Statistics (IUB 2020)
+    degree: PhD in Statistics (IUB 2020)
     position: Data Scientist at Amazon
+  - name: Robert Granger
+    degree: PhD Data Analysis Qualifier (IUB 2020)
   - name: Haoran Liu
-    photo: liu-haoran.png
-    degree: M.S. in Statistics (IUB 2020)
+    degree: MSc in Statistics (IUB 2020)
     position: Ph.D. student in Statistics at IUB
   - name: Mackenzie Turner
-    photo: mackenzie.jpg
-    degree: B.A. SPEA 
+    degree: BA SPEA (IUB 2020)
     position: IUB CEW&T's Emerging Scholars REU
   - name: Arash Khodadadi
-    photo: arash.jpg
-    degree: M.S. in Statistics (IUB 2018)
+    degree: MSc in Statistics (IUB 2018)
     position: Data Scientist at Advanced Microgrid Solutions
   - name: Michael McBride
-    photo: mmcbride.jpg
-    degree: B.S. in Statistics (IUB 2018)
+    degree: BSc in Statistics (IUB 2018)
     position: Software Developer at Epic
   - name: Jia Wang
-    photo: jiawang.jpg
-    degree: M.S. in Statistics (IUB 2017)
-    position: Ph.D. student in Biostatistics at SUNY Buffalo
-  - name: Robert Granger
-    photo: rob_granger.jpg
-    degree: Ph.D. Data Analysis Qualifier
+    degree: MSc in Statistics (IUB 2017)
+    position: PhD student in Biostatistics at SUNY Buffalo
+  - name: Zikun Yang
+    degree: PhD Data Analysis Qualifier (IUB 2014)
+  - name: Lijiang Guo
+    degree: PhD Data Analysis Qualifier (IUB 2014)
 ---
 
 1. [Research group](#research-group)
@@ -45,11 +47,11 @@ alumni:
 ## Current members
 
 
-{% include photo-array.html members=page.students %}
+{% include photoless-array.html members=page.students %}
 
 ## Alumni
 
-{% include photo-array.html members=page.alumni %}
+{% include photoless-array.html members=page.alumni %}
 
 
 # Applying to UBC Statistics or MDS Programs

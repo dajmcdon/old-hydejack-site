@@ -1,0 +1,18 @@
+
+<ul>
+    {% for mem in include.members %}
+    <li>
+        {% if mem.link %}
+        <a href="{{ mem.link }}" target="_blank">{{ mem.name }}</a>
+        {% else %}
+        {{ mem.name }}
+        {% endif %}
+        {% if mem.degree %}
+        <small>{{ mem.degree }}</small>
+        {% endif %}
+        {% if mem.position %}
+        <small>Current position: <i>{{ mem.position }}</i></small>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
