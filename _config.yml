@@ -92,11 +92,11 @@ google_fonts:          EB+Garamond
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  'EB Garamond', 'Hoefler Text', 'Times New Roman', Times, serif
+font:                  EB Garamond, Hoefler Text, Times New Roman, Times, serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font-heading:          'EB Garamond', 'Hoefler Text', 'Times New Roman', Times, serif
+font-heading:          EB Garamond, Hoefler Text, Times New Roman, Times, serif
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
