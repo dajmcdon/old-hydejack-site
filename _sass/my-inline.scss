@@ -113,14 +113,17 @@ h1:not(.page-title) {
     text-align: center;
     h3, .h3 { margin: 0; padding: 0;}
     img {
-	width: 6.5rem;
-	height: 6.5rem;
-	border-radius: 100%;
-	overflow: hidden;
-	align: middle;
+	      width: 6.5rem;
+	      height: 6.5rem;
+	      border-radius: 100%;
+	      overflow: hidden;
+	      align: middle;
     }
 }
-    
+
+.studentlist {
+    list-style-type: none;
+}
 
 // provide minimal buttons
 
