@@ -11,12 +11,13 @@ students:
 alumni:
   - name: Aaron Cohen
     degree: PhD Data Analysis Qualifier (IUB 2021)
-    position: PhD student in Statsitsic at IUB
+    position: PhD student in Statistics at IUB
   - name: Lei Ding
     degree: PhD in Statistics (IUB 2020)
     position: Data Scientist at Amazon
   - name: Robert Granger
     degree: PhD Data Analysis Qualifier (IUB 2020)
+    position: PhD student in Statistics at IUB
   - name: Haoran Liu
     degree: MSc in Statistics (IUB 2020)
     position: PhD student in Statistics at IUB
