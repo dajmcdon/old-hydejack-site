@@ -8,12 +8,10 @@
         {{ mem.name }}
         {% endif %}
         {% if mem.degree %}
-        <small>{{ mem.degree }}</small>
+        <small> &#8212 {{ mem.degree }}</small>
         {% endif %}
         {% if mem.position %}
-        <ul><li>
-            <small>Current position: <i>{{ mem.position }}</i></small>
-        </li></ul>
+        <small> &#8212 {{ mem.position }}</small>
         {% endif %}
     </li>
     {% endfor %}

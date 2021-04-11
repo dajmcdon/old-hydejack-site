@@ -11,6 +11,7 @@ students:
 alumni:
   - name: Aaron Cohen
     degree: PhD Data Analysis Qualifier (IUB 2021)
+    position: PhD student in Statsitsic at IUB
   - name: Lei Ding
     degree: PhD in Statistics (IUB 2020)
     position: Data Scientist at Amazon
@@ -18,10 +19,10 @@ alumni:
     degree: PhD Data Analysis Qualifier (IUB 2020)
   - name: Haoran Liu
     degree: MSc in Statistics (IUB 2020)
-    position: Ph.D. student in Statistics at IUB
+    position: PhD student in Statistics at IUB
   - name: Mackenzie Turner
-    degree: BA SPEA (IUB 2020)
-    position: IUB CEW&T's Emerging Scholars REU
+    degree: IUB CEW&T Emerging Scholars REU (IUB 2020)
+    position: BA student in SPEA at IUB 
   - name: Arash Khodadadi
     degree: MSc in Statistics (IUB 2018)
     position: Data Scientist at Advanced Microgrid Solutions
@@ -33,8 +34,10 @@ alumni:
     position: PhD student in Biostatistics at SUNY Buffalo
   - name: Zikun Yang
     degree: PhD Data Analysis Qualifier (IUB 2014)
+    position: Postdoc In Biostatistics at Columbia
   - name: Lijiang Guo
     degree: PhD Data Analysis Qualifier (IUB 2014)
+    position: PhD student in ISE at IUB
 ---
 
 1. [Research group](#research-group)
