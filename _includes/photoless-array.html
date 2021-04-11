@@ -1,4 +1,4 @@
-
+<div class="studentlist">
 <ul>
     {% for mem in include.members %}
     <li>
@@ -11,8 +11,11 @@
         <small>{{ mem.degree }}</small>
         {% endif %}
         {% if mem.position %}
-        <small>Current position: <i>{{ mem.position }}</i></small>
+        <ul><li>
+            <small>Current position: <i>{{ mem.position }}</i></small>
+        </li></ul>
         {% endif %}
     </li>
     {% endfor %}
 </ul>
+</div>
