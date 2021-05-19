@@ -7,6 +7,7 @@ permalink: /code-links/
 
 (See [github/dajmcdon](http://github.com/dajmcdon) or my
   [publications page](/publications/) for others)
+* [fkf](https://waternumbers.github.io/FKF/articles/FKF.html): __Fast Kalman Filter.__ Very fast Kalman filtering and smoothing. 
 * [dpf](http://github.com/dajmcdon/dpf): __Discrete particle
   filtering.__ This package greedily estimates switching Kalman filters
   *fast*. Also useful for analysis of musical tempos.

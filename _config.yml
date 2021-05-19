@@ -330,6 +330,8 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bibtemplate
+  bibliography_list_attributes:
+    reversed: "reversed"
 
   replace_strings: true
   join_strings: true

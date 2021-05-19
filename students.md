@@ -22,7 +22,7 @@ alumni:
     degree: MSc in Statistics (IUB 2020)
     position: PhD student in Statistics at IUB
   - name: Mackenzie Turner
-    degree: IUB CEW&T Emerging Scholars REU (IUB 2020)
+    degree: CEW&T Emerging Scholars REU (IUB 2020)
     position: BA student in SPEA at IUB 
   - name: Arash Khodadadi
     degree: MSc in Statistics (IUB 2018)

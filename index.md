@@ -14,6 +14,10 @@ address: |-
   604 822 0570
 bio-photo: /assets/img/GaribaldiHike.jpeg
 newsitems:
+  - date: 2021 April
+    event: Be sure to check out the [BC COVID19 Modeling Group](https://bccovid-19group.ca) reports on the status of the province.
+  - date: 2020 November
+    event: I've been leading the forecasting team for the [CMU Delphi Research](https://delphi.cmu.edu) Group's COVID19 efforts. 
   - date: 2020 July 
     event: After a lengthy process, I've left Indiana University to join [Tamara Mitchell](https://tamaraleemitchell.github.io) at UBC. I'm ecstatic to join a fantastic department with many wonderful new colleagues, but I'll be sad to say good bye to many others. If you're facing academic partner issues and are interested in my thoughts, drop me a line.
     photo: /assets/img/UBC-news.jpeg
@@ -35,7 +39,7 @@ newsitems:
 
 ## Biography 
 
-Daniel McDonald is Associate Professor of Statistics at the University of British Columbia in Vancouver. Before moving north, Daniel spent 8 years on the faculty at Indiana University, Bloomington. His research interests involve the estimation and
+Daniel McDonald is Associate Professor of Statistics at the University of British Columbia in Vancouver. Before moving North, Daniel spent 8 years on the faculty at Indiana University, Bloomington. His research interests involve the estimation and 
 quantification of prediction risk, especially developing methods for evaluating the predictive
 abilities of complex dependent data. This includes the application of statistical learning
 techniques to time series prediction problems in the context of economic forecasting, as well as
