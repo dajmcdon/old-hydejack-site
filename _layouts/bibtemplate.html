@@ -5,11 +5,16 @@
 <br>
 
 <button type="button" class="btn btn-main"
-onclick="toggleBibtex{{entry.key}}()"><i class="far fa-clone"></i> BibTeX</button>
+        onclick="toggleBibtex{{entry.key}}()"><i class="far fa-clone"></i> BibTeX</button>
 
 {% if entry.arxiv %}
 <a href="{{entry.arxiv}}" target="_blank"><button type="button" class="btn"><i class="far fa-external-link-alt"></i> arXiv</button></a>
 {% endif %}
+
+{% if entry.medrxiv %}
+<a href="{{entry.medrxiv}}" target="_blank"><button type="button" class="btn"><i class="far fa-external-link-alt"></i> medRxiv</button></a>
+{% endif %}
+
 
 {% if entry.url %}
 <a href="{{entry.url}}" target="_blank"><button type="button" class="btn btn-secondary"><i class="far fa-link"></i> Link</button></a>
