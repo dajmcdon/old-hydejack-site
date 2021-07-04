@@ -47,12 +47,12 @@ menu:
     url:               /
   - title:             Research
     url:               /research/
-  - title:	       Teaching
-    url:	       /teaching/
+  - title:	           Teaching
+    url:	             /teaching/
   - title:             Students
     url:               /students/
-  - title:	       Code/Links
-    url:	       /code-links/
+  - title:	           Code/Links
+    url:	             /code-links/
 
 
 # Add links to the footer.
