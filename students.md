@@ -2,6 +2,8 @@
 title: "Information for Students"
 permalink: /students/
 students:
+  - name: Jiaping Liu
+    degree: PhD in Statistics
   - name: Shuyi Tan
     degree: MSc in Statistics
   - name: Xiaoxuan Liang
