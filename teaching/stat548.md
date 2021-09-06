@@ -2,7 +2,7 @@
 title: Stat 548 - Qualifying Papers
 ---
 
-Last updated: 9 September 2020
+Last updated: 6 September 2021
 
 ## Choosing a paper
 
@@ -24,7 +24,7 @@ The report should have the following structure:[^1]
 
 [^1]: Thanks to Trevor and Ben. I'm stealing most of this from them.
 
-1. __Summary (~5 pages)__: The first section of the report should provide a summary of the paper and the problem(s) it addresses, including its relationship to any previous work, its major contributions (e.g., novel techniques, algorithmic developments, problem formulations, theoretical contributions), and any limitations or shortcomings (e.g., restrictive assumptions, computational constraints, flawed methodology). The aim of this section is for you to synthesize the findings of a body of work and clearly present the important points. 
+1. __Summary (~3 pages)__: The first section of the report should provide a summary of the paper and the problem(s) it addresses, including its relationship to any previous work, its major contributions (e.g., novel techniques, algorithmic developments, problem formulations, theoretical contributions), and any limitations or shortcomings (e.g., restrictive assumptions, computational constraints, flawed methodology). The aim of this section is for you to synthesize the findings of a body of work and clearly present the important points. 
 
 2. __Mini-proposals for research projects__ Each proposal should describe a research project that applies, extends, generalizes, adapts, or addresses shortcomings of the QP. Seemingly unrelated ideas inspired by the original QP are also fine. You may write more than one proposal, but you must write at least one. A proposal should concisely describe: the primary problem to be addressed; an approach (or multiple approaches) for addressing the problem; any technical or conceptual sub-problems; the potential impact of the project. You are not expected to pursue any of these projects (though we can talk more if you would like to). The aim of this section is to get you thinking creatively about research, and to begin developing the skills necessary for writing research proposals. Each proposal should be no more than _2 pages max_.
 
@@ -58,22 +58,34 @@ Some resources on technical/mathematical writing:
 
 ## Available papers
 
-1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
-~~_Themes:_ Algorithms, time series, prediction~~  
-~~_Project:_ any 1 of the 3 future work ideas described in the discussion section~~
+1. McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)  
+_Themes:_ multivariate analysis, regression  
+_Project:_ This is a rather old paper that seems to have been lost. And the writing reflects the time period (very short, not necessarily clear). The project is to carefully implement the method and compare it to forward stepwise regression and best-subset selection (as typically implemented in `R`).
 
-2. ~~Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)~~  
-~~_Themes:_ Algorithms, time series, trend filtering~~  
-~~_Project:_ Implement Nick's algorithm for general losses. Compare it with the extended Kalman filter. Describe ways to use it for other estimators with different loss functions.~~
+2. Lapanowski and Gaynanova. [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858)  
+_Themes:_ classification, compression  
+_Project:_ Replicate the analysis for one of the datasets discussed in the manuscript. 
 
 3. Deledalle. [Estimation of Kullback-Leibler losses for noisy recovery problems within the exponential family](https://projecteuclid.org/euclid.ejs/1503972028)  
 _Themes:_ risk estimation, stat theory  
 _Project:_ Compare and contrast methods of risk estimation for L1-regularized logistic regression. It's likely that reference [45] will be important, but ask me which parts.
 
+4. Gibson, Reich, Sheldon. [Real time mechanistic Bayesian forecasts of COVID-19 mortality](https://www.medrxiv.org/content/10.1101/2020.12.22.20248736v2)  
+_Themes:_ epidemic modeling, state space models, time series  
+_Project:_ Implement the model in `R`, preferably as a penalized estimator (rather than Bayesian).
+
+
+<!--
+2020
 4. ~~Suggala, Prasad, Ravikumar. [Connecting Optimization and Regularization Paths](https://papers.nips.cc/paper/8260-connecting-optimization-and-regularization-paths.pdf)~~  
 ~~_Themes:_ optimization, regularization, linear models~~  
 ~~_Project:_ Consider the simple case of ordinary least squares. How might one extend the results here for GD to Proximal GD? What can we say about the lasso path?~~
+-->
 
 5. Schiavi, ..., Daducci. [A new method for accurate in vivo mapping of human brain connections using microstructural and anatomical information](https://advances.sciencemag.org/content/6/31/eaba8245.full)  
 _Themes:_ neuroscience, optimization, regularization, linear models  
 _Project:_ Replicate the results and extend them to more reasonable fibre models.
+
+6. Lacotte, Liu, Dobriban, Pilanci. [Optimal Iterative Sketching with the Subsampled Randomized Hadamard Transform](https://arxiv.org/abs/2002.00864)  
+_Themes:_ optimization, statistical theory, compression  
+_Project:_ Consider ways the theoretical results can be applied to other losses/methodologies.

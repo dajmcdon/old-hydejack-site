@@ -29,9 +29,9 @@ demographics.
 
 ## Current courses
 
-### Stat 406 Methods for Statistical Learning ([W1-2020](https://ubc-stat.github.io/stat-406/))
+### Stat 406 Methods for Statistical Learning ([2021W1](https://ubc-stat.github.io/stat-406/))
 
-### Stat 535  Topics in Statistics ([W2-2020](./))
+### Stat 550 Techniques of Statistical Consulting ([2021W2](./))
 
 ### Stat 548 PhD Qualifying [Papers](stat548.html)
 
