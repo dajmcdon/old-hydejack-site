@@ -58,6 +58,17 @@ Some resources on technical/mathematical writing:
 
 ## Available papers
 
+<!--
+1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
+~~_Themes:_ Algorithms, time series, prediction~~  
+~~_Project:_ any 1 of the 3 future work ideas described in the discussion section~~
+
+2. ~~Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)~~  
+~~_Themes:_ Algorithms, time series, trend filtering~~  
+~~_Project:_ Implement Nick's algorithm for general losses. Compare it with the extended Kalman filter. Describe ways to use it for other estimators with different loss functions.~~
+
+-->
+
 1. McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)  
 _Themes:_ multivariate analysis, regression  
 _Project:_ This is a rather old paper that seems to have been lost. And the writing reflects the time period (very short, not necessarily clear). The project is to carefully implement the method and compare it to forward stepwise regression and best-subset selection (as typically implemented in `R`).
