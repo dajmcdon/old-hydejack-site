@@ -4,5 +4,5 @@ permalink: /bc-covid/
 
 
 <div class="covidfigs">
-<iframe height="900" src="https://dajmcdon.github.io/bc-covid-tracker/index.html"></iframe>
+<iframe name="BC-Covid-tracker" style="height:100vh;" src="https://dajmcdon.github.io/bc-covid-tracker/index.html"></iframe>
 </div>
