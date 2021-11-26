@@ -64,9 +64,9 @@ Some resources on technical/mathematical writing:
 _Themes:_ multivariate analysis, regression  
 _Project:_ This is a rather old paper that seems to have been lost. And the writing reflects the time period (very short, not necessarily clear). The project is to carefully implement the method and compare it to forward stepwise regression and best-subset selection (as typically implemented in `R`).
 
-2. Lapanowski and Gaynanova. [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858)  
-_Themes:_ classification, compression  
-_Project:_ Replicate the analysis for one of the datasets discussed in the manuscript. 
+2. ~~Lapanowski and Gaynanova. [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858)~~  
+~~_Themes:_ classification, compression~~  
+~~_Project:_ Replicate the analysis for one of the datasets discussed in the manuscript.~~ 
 
 3. Deledalle. [Estimation of Kullback-Leibler losses for noisy recovery problems within the exponential family](https://projecteuclid.org/euclid.ejs/1503972028)  
 _Themes:_ risk estimation, stat theory  
