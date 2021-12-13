@@ -14,6 +14,11 @@ address: |-
   604 822 0570
 bio-photo: /assets/img/GaribaldiHike.jpeg
 newsitems:
+  - date: 2021 December
+    event: The Special Feature on COVID-19 forecasting has appeared!
+    photo: /assets/img/BeyondCases_Main.jpg
+  - date: 2021 December
+    event: Invited talk titled [Your model is beautiful, but does it predict?](https://dajmcdon.github.io/dsges) for the NeurIPS Workshop ["I Can't Believe It's Not Better"](https://i-cant-believe-its-not-better.github.io/neurips2021/). 
   - date: 2021 April
     event: Be sure to check out the [BC COVID19 Modeling Group](https://bccovid-19group.ca) reports on the status of the province.
   - date: 2020 November
