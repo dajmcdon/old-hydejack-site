@@ -20,7 +20,7 @@ My work has been supported by grants from the Institute for New Economic Thinkin
 1. [Slides for talks and presentations](#slides-for-invited-talks-and-posters)
 1. [Dissertation work](#dissertation-work)
 
--->
+
 
 # Publications, submitted manuscripts, and technical reports
 
@@ -29,7 +29,7 @@ My work has been supported by grants from the Institute for New Economic Thinkin
 {% bibliography --query @article|@incollection|@inproceedings|@inbook|@techreport|@phdthesis %}
 
 
-<!--
+
 
 # Working papers
 
@@ -44,11 +44,11 @@ My work has been supported by grants from the Institute for New Economic Thinkin
 
 ![](/assets/img/piano.jpg){:.lead data-width="800"}
 
-<!--
+
 
 {% include presentations.html %}
 
-
+<!--
 
 
 # Dissertation work
