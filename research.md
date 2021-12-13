@@ -44,10 +44,12 @@ My work has been supported by grants from the Institute for New Economic Thinkin
 
 ![](/assets/img/piano.jpg){:.lead data-width="800"}
 
+<!--
+
 {% include presentations.html %}
 
 
-<!--
+
 
 # Dissertation work
 
