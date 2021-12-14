@@ -16,7 +16,7 @@ bio-photo: /assets/img/GaribaldiHike.jpeg
 newsitems:
   - date: 2021 December
     event: The Special Feature on COVID-19 forecasting has appeared!
-    photo: /assets/img/BeyondCases_Main.jpg
+    photo: /assets/img/BeyondCases_Main.png
   - date: 2021 December
     event: Invited talk titled [Your model is beautiful, but does it predict?](https://dajmcdon.github.io/dsges) for the NeurIPS Workshop ["I Can't Believe It's Not Better"](https://i-cant-believe-its-not-better.github.io/neurips2021/). 
   - date: 2021 April
