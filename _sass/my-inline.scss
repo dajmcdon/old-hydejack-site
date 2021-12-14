@@ -32,9 +32,9 @@ h1:not(.page-title) {
 hy-push-state a {
    
     // <<< inline
-    @supports not ((text-decoration-thickness: initial1) and (text-underline-offset: initial)) {
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
         text-decoration: none; 
-        border-bottom: 2px solid;
+        border-bottom: 1px solid;
     }
 
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
