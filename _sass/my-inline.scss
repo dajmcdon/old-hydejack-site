@@ -29,22 +29,37 @@ h1:not(.page-title) {
 
 .content { padding: 3rem 1rem 10rem; }
 
-.content a:not(.btn):not(.no-hover) {
+hy-push-state a {
+   
     // <<< inline
-    @supports ((text-decoration-thickness: 1px) and (text-underline-offset: initial)) {
-        text-decoration-color: var(--accent-color-faded);
+    @supports not ((text-decoration-thickness: initial1) and (text-underline-offset: initial)) {
+        text-decoration: none; 
+        border-bottom: 2px solid;
     }
-    border-color: var(--accent-color-faded);
+
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+        text-decoration-style: solid;
+        text-underline-offset: .25rem;
+        text-decoration-thickness: 1px;
+    }
     // >>>
+
     // <<< link
+    transition: color 250ms, text-decoration-color 250ms, border-color 250ms;
     &:hover {
-        @supports ((text-decoration-thickness: 1px) and (text-underline-offset: initial)) {
-            text-decoration-color: var(--accent-color);
-        }
-        border-color: var(--accent-color);
+        transition: color 50ms, text-decoration-color 50ms, border-color 50ms;
+    }
+    // >>>
+
+    // <<< inline
+    &.no-hover {
+        border-bottom: none;
+        text-decoration-thickness: unset;
+        text-underline-offset: unset;
     }
     // >>>
 }
+
 
 
 
