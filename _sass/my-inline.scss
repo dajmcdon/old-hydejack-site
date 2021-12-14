@@ -29,6 +29,24 @@ h1:not(.page-title) {
 
 .content { padding: 3rem 1rem 10rem; }
 
+.content a:not(.btn):not(.no-hover) {
+    // <<< inline
+    @supports ((text-decoration-thickness: 1px) and (text-underline-offset: initial)) {
+        text-decoration-color: var(--accent-color-faded);
+    }
+    border-color: var(--accent-color-faded);
+    // >>>
+    // <<< link
+    &:hover {
+        @supports ((text-decoration-thickness: 1px) and (text-underline-offset: initial)) {
+            text-decoration-color: var(--accent-color);
+        }
+        border-color: var(--accent-color);
+    }
+    // >>>
+}
+
+
 
 // provide emphasized main page area for responsive columns
 
