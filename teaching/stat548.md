@@ -68,9 +68,9 @@ _Project:_ This is a rather old paper that seems to have been lost. And the writ
 ~~_Themes:_ classification, compression~~  
 ~~_Project:_ Replicate the analysis for one of the datasets discussed in the manuscript.~~ 
 
-3. Deledalle. [Estimation of Kullback-Leibler losses for noisy recovery problems within the exponential family](https://projecteuclid.org/euclid.ejs/1503972028)  
-_Themes:_ risk estimation, stat theory  
-_Project:_ Compare and contrast methods of risk estimation for L1-regularized logistic regression. It's likely that reference [45] will be important, but ask me which parts.
+3. ~~Deledalle. [Estimation of Kullback-Leibler losses for noisy recovery problems within the exponential family](https://projecteuclid.org/euclid.ejs/1503972028)~~  
+~~_Themes:_ risk estimation, stat theory~~  
+~~_Project:_ Compare and contrast methods of risk estimation for L1-regularized logistic regression. It's likely that reference [45] will be important, but ask me which parts.~~
 
 4. ~~Gibson, Reich, Sheldon. [Real time mechanistic Bayesian forecasts of COVID-19 mortality](https://www.medrxiv.org/content/10.1101/2020.12.22.20248736v2)~~  
 ~~_Themes:_ epidemic modeling, state space models, time series~~  
