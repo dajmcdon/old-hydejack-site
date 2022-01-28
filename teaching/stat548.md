@@ -81,9 +81,9 @@ _Project:_ This is a rather old paper that seems to have been lost. And the writ
 _Themes:_ neuroscience, optimization, regularization, linear models  
 _Project:_ Replicate the results and extend them to more reasonable fibre models.
 
-6. Lacotte, Liu, Dobriban, Pilanci. [Optimal Iterative Sketching with the Subsampled Randomized Hadamard Transform](https://arxiv.org/abs/2002.00864)  
-_Themes:_ optimization, statistical theory, compression  
-_Project:_ Consider ways the theoretical results can be applied to other losses/methodologies.
+6. ~~Lacotte, Liu, Dobriban, Pilanci. [Optimal Iterative Sketching with the Subsampled Randomized Hadamard Transform](https://arxiv.org/abs/2002.00864)~~  
+~~_Themes:_ optimization, statistical theory, compression~~  
+~~_Project:_ Consider ways the theoretical results can be applied to other losses/methodologies.~~
 
 
 
