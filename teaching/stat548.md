@@ -60,9 +60,9 @@ Some resources on technical/mathematical writing:
 
 
 
-1. McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)  
-_Themes:_ multivariate analysis, regression  
-_Project:_ This is a rather old paper that seems to have been lost. And the writing reflects the time period (very short, not necessarily clear). The project is to carefully implement the method and compare it to forward stepwise regression and best-subset selection (as typically implemented in `R`).
+1. ~~McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)~~  
+~~_Themes:_ multivariate analysis, regression~~  
+~~_Project:_ This is a rather old paper that seems to have been lost. And the writing reflects the time period (very short, not necessarily clear). The project is to carefully implement the method and compare it to forward stepwise regression and best-subset selection (as typically implemented in `R`).~~
 
 2. ~~Lapanowski and Gaynanova. [Compressing Large Sample Data for Discriminant Analysis](https://arxiv.org/abs/2005.03858)~~  
 ~~_Themes:_ classification, compression~~  
