@@ -44,6 +44,10 @@ demographics.
 
 # Links to materials from old courses
 
+### At UBC
+
+* Stat 535a Topics in Computational Statistics: Convex Optimization ([2021W1](https://ubc-stat.github.io/stat-535-convexopt/))
+
 ### At Indiana University, Bloomington
 
 * S100 Statistical Literacy ([Sp20](https://iub-stat100.github.io))
@@ -63,4 +67,4 @@ demographics.
 
 ### At the Institute for New Economic Thinking
 
-* Short Course on Machine Learning ([Sp13](/teaching/inet2013.html)) [(Sp15)](/teaching/inet2015.html) --- As part of the Young Scholars Institute at the INET Hong Kong conference from 2--3 April 2013, Darren Homrighausen and I taught a course on statistical learning. I retaught the course in New York, 24--26 February 2015. 
+* Short Course on Machine Learning ([Sp13](/teaching/inet2013.html)) [(Sp15)](/teaching/inet2015.html) --- As part of the Young Scholars Institute at the INET Hong Kong conference from 2--3 April 2013, Darren Homrighausen and I taught a course on statistical learning. I retaught the course in New York, 24--26 February 2015.

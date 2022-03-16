@@ -7,7 +7,15 @@ permalink: /code-links/
 
 (See [github/dajmcdon](http://github.com/dajmcdon) or my
   [publications page](/publications/) for others)
-* [fkf](https://waternumbers.github.io/FKF/articles/FKF.html): __Fast Kalman Filter.__ Very fast Kalman filtering and smoothing. 
+* [fkf](https://waternumbers.github.io/FKF/index.html): __Fast Kalman Filter.__
+  Very fast Kalman filtering and smoothing. 
+* [sparsegl](https://dajmcdon.github.io/sparsegl/) __Sparse Group Lasso.__
+  Efficient implementation of sparse group lasso with optional bound constraints
+  on the coefficients. It supports the use of a sparse design matrix as well as
+  returning coefficient estimates in a sparse matrix. Furthermore, it correctly
+  calculates the degrees of freedom to allow for information criteria rather
+  than cross-validation with very large data. Finally, the interface to compiled
+  code avoids unnecessary copies and allows for the use of long integers. 
 * [dpf](http://github.com/dajmcdon/dpf): __Discrete particle
   filtering.__ This package greedily estimates switching Kalman filters
   *fast*. Also useful for analysis of musical tempos.
@@ -18,12 +26,6 @@ principal components analysis.
 * [cplr](http://github.com/dajmcdon/cplr): __Compressed penalized linear regression.__ As described in Homrighausen, D. and McDonald, D.J.,
 "Compressed and penalized linear regression." 
 
-
-## Frequently requested LaTeX templates
-
-* [Template for CV](/assets/code-links/cv.tex) [somewhat outdated]
-* [Dissertation template](/assets/code-links/thesis.zip) (based on the [classicthesis](http://www.ctan.org/tex-archive/macros/latex/contrib/classicthesis/) style)
-* [Research poster in Beamer](/assets/code-links/poster.zip)
 
 ## Random potentially useful stuff
 
