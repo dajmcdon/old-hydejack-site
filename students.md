@@ -4,13 +4,18 @@ permalink: /students/
 students:
   - name: Jiaping Liu
     degree: PhD in Statistics
-  - name: Shuyi Tan
-    degree: MSc in Statistics
-  - name: Xiaoxuan Liang
-    degree: MSc in Statistics
-  - name: Wei Tang
-    degree: MSc in Statistics
+  - name: William Laplante
+    degree: MSc in Statistics (co-supervised with Paul Gustafson)
+  - name: Elvis Cai
+    degree: MSc in Statistics (co-supervised with Ben Bloem-Reddy)
 alumni:
+  - name: Shuyi Tan
+    degree: MSc in Statistics (UBC 2022)
+  - name: Xiaoxuan Liang
+    degree: MSc in Statistics (UBC 2022)
+    position: PhD student in Computer Science at UBC
+  - name: Wei Tang
+    degree: MSc in Statistics (UBC 2022)
   - name: Aaron Cohen
     degree: PhD Data Analysis Qualifier (IUB 2021)
     position: PhD student in Statistics at IUB

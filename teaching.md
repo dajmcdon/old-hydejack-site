@@ -3,31 +3,8 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-My primary educational goal is to enhance
-statistical literacy and communication among my students. To me, statistical
-literacy means combining careful data analysis with scientific
-expertise to grapple with problems. Given the quantity of data available
-today, I want my students to learn how to engage in the type
-of quantitative reasoning and decision making necessary for
-understanding
-applications in the sciences, business, and public policy.
-Going beyond the didacticism of basic statistical literacy, I strive
-to inform students about the
-fundamental role statistics plays in the comprehension of real-world
-phenomena across disciplines and to motivate them to
-use this knowledge in their daily lives.
-Finally, I endeavor to cultivate curiosity in my students and to create an open and
-nurturing learning environment.
-This conception of my role as a pedagogue has informed the choices I have
-made in the design and implementation of my courses, and I work every
-day to inspire my students to develop a similar view. Beyond
-statistics, I feel strongly that it is important to connect with students from
-backgrounds that do not come to college with the same financial
-resources, cultural capital, and training as more privileged
-demographics.      
 
-
-## Current courses
+# Current courses
 
 ### Stat 406 Methods for Statistical Learning ([2021W1](https://ubc-stat.github.io/stat-406/))
 
@@ -35,12 +12,13 @@ demographics.
 
 ### Stat 548 PhD Qualifying [Papers](stat548.html)
 
-
+<!--
 
 ![](/assets/img/code.png){:.lead data-width="800"}
 
 ![](/assets/img/ci-widths.jpg){:.lead data-width="800"}
 
+-->
 
 # Links to materials from old courses
 

@@ -3,6 +3,16 @@ title: "Code/Links"
 permalink: /code-links/
 ---
 
+## COVID work
+
+* Delphi Research Group at Carnegie Mellon University
+    - [Website](https://delphi.cmu.edu)
+    - [Covidcast](https://delphi.cmu.edu/covidcast/)
+    - [Github Org](http://github.com/cmu-delphi)
+
+* [BC COVID-19 Modelling Group](https://bccovid-19group.ca)
+
+
 ## R packages for recent papers and publications
 
 (See [github/dajmcdon](http://github.com/dajmcdon) or my

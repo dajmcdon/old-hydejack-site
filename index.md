@@ -62,6 +62,6 @@ Teaching Award. In 2018, he received an NSF CAREER award. His work has also been
 grants from the Institute for New Economic Thinking, the Canadian Statistical Sciences Institute,
 and the National Sciences and Engineering Research Council of Canada.
 
-
+<!--
 {% include recent-news.html members=page.newsitems %}
-
+-->
