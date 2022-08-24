@@ -49,6 +49,7 @@ Daniel is Associate Professor of Statistics at the University of British Columbi
 Daniel did his undergraduate studies at Indiana University where he received two bachelors degrees: a Bachelor of Science in Music with a concentration in cello performance from the Jacobs School of Music and a Bachelor of Arts in economics and mathematics. Prior to graduate school, he worked as a Research Associate at the Federal Reserve Bank of St. Louis. He received his Ph.D. from Carnegie Mellon University in statistics where he was named graduate student of the year for 2012 and received the Umesh Gavasakar Memorial Thesis Award for his dissertation "Generalization Error Bounds for State Space Models." In 2017, he was a recipient of the Indiana University Trustees Teaching Award. In 2018, he received an NSF CAREER award. His work has also been supported by grants from the Institute for New Economic Thinking, the Canadian Statistical Sciences Institute, and the National Sciences and Engineering Research Council of Canada. 
 
 Since the beginning of the COVID-19 pandemic, much of Daniel's applied work has focused on methods for understanding and modelling epidemiological data. He is a core member of the [BC COVID-19 Modelling Group](https://bccovid-19group.ca) and works on research, forecasting, nowcasting, and software development with Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu).
+
 <!--
 {% include recent-news.html members=page.newsitems %}
 -->
