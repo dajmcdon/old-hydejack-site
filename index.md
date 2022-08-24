@@ -44,24 +44,11 @@ newsitems:
 
 ## Biography 
 
-Daniel McDonald is Associate Professor of Statistics at the University of British Columbia in Vancouver. Before moving North, Daniel spent 8 years on the faculty at Indiana University, Bloomington. His research interests involve the estimation and 
-quantification of prediction risk, especially developing methods for evaluating the predictive
-abilities of complex dependent data. This includes the application of statistical learning
-techniques to time series prediction problems in the context of economic forecasting, as well as
-investigations of cross-validation and the bootstrap for risk estimation.
+Daniel is Associate Professor of Statistics at the University of British Columbia in Vancouver. Before moving North, Daniel spent 8 years on the faculty at Indiana University, Bloomington. His research interests involve the estimation and quantification of prediction risk, especially developing methods for evaluating the predictive abilities of complex dependent data. This includes the application of statistical learning techniques to time series prediction problems in the context of economic forecasting, as well as investigations of cross-validation and the bootstrap for risk estimation.
 
+Daniel did his undergraduate studies at Indiana University where he received two bachelors degrees: a Bachelor of Science in Music with a concentration in cello performance from the Jacobs School of Music and a Bachelor of Arts in economics and mathematics. Prior to graduate school, he worked as a Research Associate at the Federal Reserve Bank of St. Louis. He received his Ph.D. from Carnegie Mellon University in statistics where he was named graduate student of the year for 2012 and received the Umesh Gavasakar Memorial Thesis Award for his dissertation "Generalization Error Bounds for State Space Models." In 2017, he was a recipient of the Indiana University Trustees Teaching Award. In 2018, he received an NSF CAREER award. His work has also been supported by grants from the Institute for New Economic Thinking, the Canadian Statistical Sciences Institute, and the National Sciences and Engineering Research Council of Canada. 
 
-Daniel did his undergraduate studies at Indiana University where he received two bachelors degrees:
-a Bachelor of Science in Music with a concentration in cello performance from the Jacobs School of
-Music and a Bachelor of Arts in economics and mathematics. Prior to graduate school, he worked as a
-Research Associate at the Federal Reserve Bank of St. Louis. He received his Ph.D. from Carnegie
-Mellon University in statistics where he was named graduate student of the year for 2012 and
-received the Umesh Gavasakar Memorial Thesis Award for his dissertation "Generalization Error
-Bounds for State Space Models." In 2017, he was a recipient of the Indiana University Trustees
-Teaching Award. In 2018, he received an NSF CAREER award. His work has also been supported by
-grants from the Institute for New Economic Thinking, the Canadian Statistical Sciences Institute,
-and the National Sciences and Engineering Research Council of Canada.
-
+Since the beginning of the COVID-19 pandemic, much of Daniel's applied work has focused on methods for understanding and modelling epidemiological data. He is a core member of the [BC COVID-19 Modelling Group](https://bccovid-19group.ca) and works on research, forecasting, nowcasting, and software development with Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu).
 <!--
 {% include recent-news.html members=page.newsitems %}
 -->
