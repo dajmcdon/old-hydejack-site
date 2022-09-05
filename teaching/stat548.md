@@ -58,7 +58,7 @@ Some resources on technical/mathematical writing:
 
 ## Available papers
 
-<!--
+<!---
 
 2020
 1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
@@ -73,9 +73,9 @@ Some resources on technical/mathematical writing:
 ~~_Themes:_ optimization, regularization, linear models~~  
 ~~_Project:_ Consider the simple case of ordinary least squares. How might one extend the results here for GD to Proximal GD? What can we say about the lasso path?~~
 
--->
+--->
 
-<!-- 
+<!---
 2021
 
 1. ~~McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)~~  
@@ -103,7 +103,7 @@ Some resources on technical/mathematical writing:
 ~~_Themes:_ optimization, statistical theory, compression~~  
 ~~_Project:_ Consider ways the theoretical results can be applied to other losses/methodologies.~~
 
--->
+--->
 
 
 1. Metzler, Mousavi, Heckel, and Baraniuk. [Unsupervised Learning with Stein's Unbiased Risk Estimator](https://arxiv.org/abs/1805.10531)  
