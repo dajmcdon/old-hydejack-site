@@ -2,7 +2,7 @@
 title: Stat 548 - Qualifying Papers
 ---
 
-Last updated: 6 September 2021
+Last updated: 5 September 2022
 
 ## Choosing a paper
 
