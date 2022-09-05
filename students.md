@@ -11,11 +11,13 @@ students:
 alumni:
   - name: Shuyi Tan
     degree: MSc in Statistics (UBC 2022)
+    position: Data Analyst at VGH & UBC Hospital Foundation
   - name: Xiaoxuan Liang
     degree: MSc in Statistics (UBC 2022)
     position: PhD student in Computer Science at UBC
   - name: Wei Tang
     degree: MSc in Statistics (UBC 2022)
+    position: Data Scientist at Amazon
   - name: Aaron Cohen
     degree: PhD Data Analysis Qualifier (IUB 2021)
     position: PhD student in Statistics at IUB
@@ -48,10 +50,13 @@ alumni:
     position: PhD student in ISE at IUB
 ---
 
-1. [Research group](#research-group)
-2. [Applying to the statistics department](#applying-to-iu-statistics)
-3. [Requesting letters of recommendation](#requesting-letters-of-recommendation)
-4. [Scheduling a research meeting](#scheduling-research-meetings)
+- [Research group](#research-group)
+  - [Current members](#current-members)
+  - [Alumni](#alumni)
+- [Applying to UBC Statistics or MDS Programs](#applying-to-ubc-statistics-or-mds-programs)
+- [Requesting letters of recommendation](#requesting-letters-of-recommendation)
+- [Scheduling research meetings](#scheduling-research-meetings)
+  - [Public calendar](#public-calendar)
 
 # Research group
 
