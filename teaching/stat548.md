@@ -58,21 +58,25 @@ Some resources on technical/mathematical writing:
 
 ## Available papers
 
+<!--
 
+2020
+1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
+~~_Themes:_ Algorithms, time series, prediction~~  
+~~_Project:_ any 1 of the 3 future work ideas described in the discussion section~~
 
-1. Metzler, Mousavi, Heckel, and Baraniuk. [Unsupervised Learning with Stein's Unbiased Risk Estimator](https://arxiv.org/abs/1805.10531)  
-_Themes:_ Deep learning, risk estimation, computation.  
-_Project:_ Describe and implement SURE for ridge regression using the Auto Differentiation idea discussed in this paper.
+2. ~~Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)~~  
+~~_Themes:_ Algorithms, time series, trend filtering~~  
+~~_Project:_ Implement Nick's algorithm for general losses. Compare it with the extended Kalman filter. Describe ways to use it for other estimators with different loss functions.~~
 
-2. Koyama, Castellanos Pérez-Bolde, Shalizi, and Kass. [Approximate Methods for State-Space Models](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08326)  
-_Themes:_ Time series, deconvolution, computation.
-_Project:_ Implement the methodology in reasonable, generalizable software. Use it to estimate the latent states from a simulated non-linear state-space model.
+4. ~~Suggala, Prasad, Ravikumar. [Connecting Optimization and Regularization Paths](https://papers.nips.cc/paper/8260-connecting-optimization-and-regularization-paths.pdf)~~  
+~~_Themes:_ optimization, regularization, linear models~~  
+~~_Project:_ Consider the simple case of ordinary least squares. How might one extend the results here for GD to Proximal GD? What can we say about the lasso path?~~
 
-3. Green, Balakrishnan, and Tibshirani. [Minimax Optimal Regression over Sobolev Spaces via Laplacian Eigenmaps on Neighborhood Graphs](https://arxiv.org/abs/2111.07394)  
-_Themes:_ Nonparametric regression, manifolds, sufficient dimension reduction.  
-_Project:_ Discuss how the ideas in this paper relate to recent work on "Sufficient Dimension Reduction" as in, e.g., [this paper](https://arxiv.org/abs/2010.15009) and references therein.
+-->
 
-<!-- 2021
+<!-- 
+2021
 
 1. ~~McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)~~  
 ~~_Themes:_ multivariate analysis, regression~~  
@@ -99,20 +103,21 @@ _Project:_ Discuss how the ideas in this paper relate to recent work on "Suffici
 ~~_Themes:_ optimization, statistical theory, compression~~  
 ~~_Project:_ Consider ways the theoretical results can be applied to other losses/methodologies.~~
 
-
-
-
-
-2020
-1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
-~~_Themes:_ Algorithms, time series, prediction~~  
-~~_Project:_ any 1 of the 3 future work ideas described in the discussion section~~
-
-2. ~~Johnson. [A Dynamic Programming Algorithm for the Fused Lasso and L0-Segmentation](https://doi.org/10.1080/10618600.2012.681238)~~  
-~~_Themes:_ Algorithms, time series, trend filtering~~  
-~~_Project:_ Implement Nick's algorithm for general losses. Compare it with the extended Kalman filter. Describe ways to use it for other estimators with different loss functions.~~
-
-4. ~~Suggala, Prasad, Ravikumar. [Connecting Optimization and Regularization Paths](https://papers.nips.cc/paper/8260-connecting-optimization-and-regularization-paths.pdf)~~  
-~~_Themes:_ optimization, regularization, linear models~~  
-~~_Project:_ Consider the simple case of ordinary least squares. How might one extend the results here for GD to Proximal GD? What can we say about the lasso path?~~
 -->
+
+
+1. Metzler, Mousavi, Heckel, and Baraniuk. [Unsupervised Learning with Stein's Unbiased Risk Estimator](https://arxiv.org/abs/1805.10531)  
+_Themes:_ Deep learning, risk estimation, computation.  
+_Project:_ Describe and implement SURE for ridge regression using the Auto Differentiation idea discussed in this paper.
+
+2. Koyama, Castellanos Pérez-Bolde, Shalizi, and Kass. [Approximate Methods for State-Space Models](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08326)  
+_Themes:_ Time series, deconvolution, computation.  
+_Project:_ Implement the methodology in reasonable, generalizable software. Use it to estimate the latent states from a simulated non-linear state-space model.
+
+3. Green, Balakrishnan, and Tibshirani. [Minimax Optimal Regression over Sobolev Spaces via Laplacian Eigenmaps on Neighborhood Graphs](https://arxiv.org/abs/2111.07394)  
+_Themes:_ Nonparametric regression, manifolds, sufficient dimension reduction.  
+_Project:_ Discuss how the ideas in this paper relate to recent work on "Sufficient Dimension Reduction" as in, e.g., [this paper](https://arxiv.org/abs/2010.15009) and references therein.
+
+
+
+
