@@ -60,6 +60,20 @@ Some resources on technical/mathematical writing:
 
 
 
+1. Metzler, Mousavi, Heckel, and Baraniuk. [Unsupervised Learning with Stein's Unbiased Risk Estimator](https://arxiv.org/abs/1805.10531)  
+_Themes:_ Deep learning, risk estimation, computation.  
+_Project:_ Describe and implement SURE for ridge regression using the Auto Differentiation idea discussed in this paper.
+
+2. Koyama, Castellanos Pérez-Bolde, Shalizi, and Kass. [Approximate Methods for State-Space Models](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08326)  
+_Themes:_ Time series, deconvolution, computation.
+_Project:_ Implement the methodology in reasonable, generalizable software. Use it to estimate the latent states from a simulated non-linear state-space model.
+
+3. Green, Balakrishnan, and Tibshirani. [Minimax Optimal Regression over Sobolev Spaces via Laplacian Eigenmaps on Neighborhood Graphs](https://arxiv.org/abs/2111.07394)  
+_Themes:_ Nonparametric regression, manifolds, sufficient dimension reduction.  
+_Project:_ Discuss how the ideas in this paper relate to recent work on "Sufficient Dimension Reduction" as in, e.g., [this paper](https://arxiv.org/abs/2010.15009) and references therein.
+
+<!-- 2021
+
 1. ~~McHenry. [Computation of a best subset in multivariate analysis](https://www.jstor.org/stable/pdf/2347164.pdf?refreqid=excelsior%3A3ed88713f6d71218db5738d9e3872bad)~~  
 ~~_Themes:_ multivariate analysis, regression~~  
 ~~_Project:_ This is a rather old paper that seems to have been lost. And the writing reflects the time period (very short, not necessarily clear). The project is to carefully implement the method and compare it to forward stepwise regression and best-subset selection (as typically implemented in `R`).~~
@@ -77,9 +91,9 @@ Some resources on technical/mathematical writing:
 ~~_Project:_ Implement the model in `R`, preferably as a penalized estimator (rather than Bayesian).~~
 
 
-5. Schiavi, ..., Daducci. [A new method for accurate in vivo mapping of human brain connections using microstructural and anatomical information](https://advances.sciencemag.org/content/6/31/eaba8245.full)  
-_Themes:_ neuroscience, optimization, regularization, linear models  
-_Project:_ Replicate the results and extend them to more reasonable fibre models.
+5. ~~Schiavi, ..., Daducci. [A new method for accurate in vivo mapping of human brain connections using microstructural and anatomical information](https://advances.sciencemag.org/content/6/31/eaba8245.full)~~  
+~~_Themes:_ neuroscience, optimization, regularization, linear models~~  
+~~_Project:_ Replicate the results and extend them to more reasonable fibre models.~~
 
 6. ~~Lacotte, Liu, Dobriban, Pilanci. [Optimal Iterative Sketching with the Subsampled Randomized Hadamard Transform](https://arxiv.org/abs/2002.00864)~~  
 ~~_Themes:_ optimization, statistical theory, compression~~  
@@ -88,7 +102,7 @@ _Project:_ Replicate the results and extend them to more reasonable fibre models
 
 
 
-<!--
+
 2020
 1. ~~Jahja, Farrow, Rosenfeld, Tibshirani. [Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights](https://papers.nips.cc/paper/9475-kalman-filter-sensor-fusion-and-constrained-regression-equivalences-and-insights)~~  
 ~~_Themes:_ Algorithms, time series, prediction~~  
