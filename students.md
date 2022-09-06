@@ -2,6 +2,8 @@
 title: "Information for Students"
 permalink: /students/
 students:
+  - name: Rachel Lobay
+    degree: PhD in Statistics
   - name: Jiaping Liu
     degree: PhD in Statistics
   - name: William Laplante
@@ -81,13 +83,13 @@ If you want to learn more, your best bet is to email the [Graduate Admissions Of
 
 I frequently get requests for letters of recommendation, and I'm generally happy to comply. However, if I taught you for one class two years ago, it is unlikely that I can provide useful information to a recruiter or admissions committee member. 
 
-In order for me to write, I will need at least **two** weeks notice before the first deadline. I will also ask you to provide some information. I've found that this really helps me to write convincing letters.
+In order for me to write, I will need at least **two** weeks notice before the first deadline. I will also ask you to provide some information. I've found that this helps me to write convincing letters.
 
-Finally, I only agree to write a fixed number of letters per year for students who take courses with me. This is to be fair to you. Sending letters for many students to the same programs dilutes the impact of my letter with admissions committees. This is another reason that I encourage you to ask early. This limit does not apply to PhD students or other students doing research projects under my supervision.
+Finally, I only agree to write a fixed number of letters per year for students who take courses with me. This is to be fair to you. Sending letters for many students to the same programs dilutes the impact of my letter with admissions committees. This is another reason that I encourage you to ask early. If you are currently enrolled in class with me, I will ask that you attend office hours, ask questions, of in another way give me some information about yourself. I do not write letters that say "This student took my course and got a 91." This limit does not apply to PhD students or other students doing research projects under my supervision.
 
 * A list of all (or as many as you currently know) positions to which you are applying along with deadlines and some idea of how the letter gets there. (Do I email someone or does some system ask me to upload things in an automated fashion?)
-* A recent CV or resume.
-* A personal statement or cover letter (likely the one you're sending in one of the applications)
+* A recent CV or resume that includes a list of courses taken in your major.
+* A personal statement or cover letter (likely the one you're sending in one of the applications).
 * Answers to as many of the following questions as possible:
     1. For what class(es) have I been the instructor, and how did you distinguish yourself in my class(es)? Any particular experiences you remember that I should be aware of that make you look good?
     2. Please choose four adjectives that you think describe you well and provide a brief self-recommendation (2--3 sentences).
@@ -96,9 +98,6 @@ Finally, I only agree to write a fixed number of letters per year for students w
     5. What makes me particularly qualified to write a letter for you?
     6. What makes you particularly qualified for these positions?
     7. What are your long-term goals?
-    8. If you are a PhD student, give me a brief synopsis of your thesis work (the abstract is fine). What have you accomplished since you proposed? What is the motivation for your work? Where do you see this work going? Any target applications?
-    
-Given enough lead time, I'm happy to help you create or edit some of these materials. Even if time is short, I'll do my best, but I strongly recommend taking advantage of [university resources](https://students.ubc.ca/career). 
 
 # Scheduling research meetings
 
@@ -113,7 +112,7 @@ I have found the following procedure tends to result in more productive meetings
     1. be available in the calendar.
     2. begin between 09:00 and 16:00 Monday through Friday 
     3. be at least 24 hours in the future.
-* Ideally, your document should
+* Your document should
     1. contain a section summarizing takeaway points of our previous meeting including next steps.
     2. describe what you have done to address those points or give concrete reasons for why they could not be addressed.
     3. if you were asked to read a paper, summarize the paper _and_ relate it to your project.
