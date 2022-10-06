@@ -106,9 +106,9 @@ Some resources on technical/mathematical writing:
 --->
 
 
-1. Metzler, Mousavi, Heckel, and Baraniuk. [Unsupervised Learning with Stein's Unbiased Risk Estimator](https://arxiv.org/abs/1805.10531)  
-_Themes:_ Deep learning, risk estimation, computation.  
-_Project:_ Describe and implement SURE for ridge regression using the Auto Differentiation idea discussed in this paper.
+1. ~~Metzler, Mousavi, Heckel, and Baraniuk. [Unsupervised Learning with Stein's Unbiased Risk Estimator](https://arxiv.org/abs/1805.10531)~~  
+~~_Themes:_ Deep learning, risk estimation, computation.~~  
+~~_Project:_ Describe and implement SURE for ridge regression using the Auto Differentiation idea discussed in this paper.~~
 
 2. Koyama, Castellanos Pérez-Bolde, Shalizi, and Kass. [Approximate Methods for State-Space Models](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08326)  
 _Themes:_ Time series, deconvolution, computation.  
